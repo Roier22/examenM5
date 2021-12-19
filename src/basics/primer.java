@@ -1,5 +1,5 @@
 package basics;
-//Durany
+
 public class primer {
 
     public static void main(String[] args) {
